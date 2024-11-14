@@ -12,7 +12,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="110dp"
-        android:src="@drawable/baguio_logo"
+        android:src="@drawable/bclogo_removebg_preview"
         android:layout_gravity="center"
         android:layout_marginBottom="32dp"
         android:layout_marginTop="32dp"/>
@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:text="Explore Baguio City "
+        android:text="Tara Baguio City "
         android:textSize="24sp"
         android:paddingTop="8dp"
         android:textAlignment="center"
@@ -32,13 +32,13 @@
 
     <!-- Buttons for categories -->
     <Button
-        android:id="@+id/kidFriendlyButton"
+        android:id="@+id/FamilyFriendlyButton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Kid-Friendly Places"
+        android:text="Family Friendly Places"
         android:textSize="20sp"
         android:layout_marginTop="20dp"
-        android:backgroundTint="#0C6110"
+        android:backgroundTint="#3F51B5"
         android:textColor="@color/white"/>
 
     <Button
@@ -48,7 +48,7 @@
         android:text="Shopping Centers"
         android:textSize="20sp"
         android:layout_marginTop="10dp"
-        android:backgroundTint="#0C6110"
+        android:backgroundTint="#3F51B5"
         android:textColor="@color/white"/>
 
     <Button
@@ -58,7 +58,7 @@
         android:text="Restaurants"
         android:textSize="20sp"
         android:layout_marginTop="16dp"
-        android:backgroundTint="#0C6110"
+        android:backgroundTint="#3F51B5"
         android:textColor="#F6F3F3"/>
 
     <Button
@@ -68,7 +68,7 @@
         android:text="Club and Bar"
         android:textSize="20sp"
         android:layout_marginTop="10dp"
-        android:backgroundTint="#0C6110"
+        android:backgroundTint="#3F51B5"
         android:textColor="@color/white"/>
 
     <Button
@@ -78,7 +78,7 @@
         android:text="Parks"
         android:textSize="20sp"
         android:layout_marginTop="10dp"
-        android:backgroundTint="#0C6110"
+        android:backgroundTint="#3F51B5"
         android:textColor="@color/white"/>
 
 

@@ -27,8 +27,8 @@ class MainFragment : Fragment() {
         binding.restaurantsButton.setOnClickListener {
             navigateToCategory("Restaurants")
         }
-        binding.kidFriendlyButton.setOnClickListener {
-            navigateToCategory("Kid-Friendly Places")
+        binding.FamilyFriendlyButton.setOnClickListener {
+            navigateToCategory("Family Friendly Places")
         }
         binding.parksButton.setOnClickListener {
             navigateToCategory("Parks")
